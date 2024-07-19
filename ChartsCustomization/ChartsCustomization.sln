@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChartsCustomization", "ChartsCustomization\ChartsCustomization.csproj", "{7D29825F-185B-4B81-9F94-84A240675F19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D29825F-185B-4B81-9F94-84A240675F19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D29825F-185B-4B81-9F94-84A240675F19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D29825F-185B-4B81-9F94-84A240675F19}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{7D29825F-185B-4B81-9F94-84A240675F19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D29825F-185B-4B81-9F94-84A240675F19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D29825F-185B-4B81-9F94-84A240675F19}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A022F4CC-DA37-4CB2-8728-F59F599A4C1C}
+	EndGlobalSection
+EndGlobal
